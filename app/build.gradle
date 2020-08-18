@@ -12,6 +12,8 @@ android {
         enabled = true
     }
 
+
+
     defaultConfig {
         applicationId "com.example.iship2"
         minSdkVersion 16
